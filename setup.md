@@ -1,4 +1,5 @@
-Install all packages (use the versions suitable for the system) from [requirements.txt] (https://github.com/abhimanyutherobot/rpi_interview_app/blob/master/Interview_App/requirements.txt)
+Install all packages (use the versions suitable for the system) from:
+- [requirements.txt] (https://github.com/abhimanyutherobot/rpi_interview_app/blob/master/Interview_App/requirements.txt)
 
 
 
